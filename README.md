@@ -113,27 +113,7 @@ I learn best by working through technical problems, investigating why something 
 
 Aprendo mejor resolviendo problemas técnicos, investigando por qué algo falla y comprendiendo cómo se conectan sus componentes.
 
-### 📡 Monitoring Lab
 
-Exploring service monitoring with Nagios and NRPE, including availability checks and monitoring in containerized environments.
-
-*Exploración del monitoreo de servicios con Nagios y NRPE, incluyendo comprobaciones de disponibilidad y entornos con contenedores.*
-
-### ♻️ VINTRA
-
-Collaborative software project focused on waste collection route management.
-
-*Proyecto colaborativo de software enfocado en la gestión de rutas de recolección de residuos.*
-
-### 🗺️ BuenaRuta
-
-Exploring a software solution for waste collection monitoring and management in Buenaventura.
-
-*Exploración de una solución de software para el seguimiento y la gestión de la recolección de residuos en Buenaventura.*
-
-> Replace these descriptions with links to the corresponding repositories when they are available.
-
----
 
 ## 📊 GitHub Stats
 
