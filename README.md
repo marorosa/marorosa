@@ -1,4 +1,4 @@
-# 👩🏽‍💻 Hi, I'm Maro Montes
+#  Hi, I'm Maro Montes
 
 ### Software Development Student | DevOps · Cybersecurity · Infrastructure
 
