@@ -1,4 +1,4 @@
-# 👩🏽‍💻 Hi, I'm Maro Montes
+#  Hi, I'm Maro Montes
 
 ### Software Development Student | DevOps · Cybersecurity · Infrastructure
 
@@ -58,7 +58,7 @@ I learn best by working through real technical problems, investigating why somet
 
 ---
 
-## 🌱 My Approach
+##  My Approach
 
 I don't want to learn tools just to add them to a list. I want to understand what they do, why they matter, how they interact, and how to use them responsibly.
 
