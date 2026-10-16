@@ -1,4 +1,4 @@
-![Banner de Maro](./baner%2021.png)
+![Banner de Marilin Montes](<Marilin%20Montes_%20C%C3%B3digo%2C%20Caf%C3%A9%20y%20Creatividad.png>)
 
 <div align="center">
 #  Hi, I'm Maro Montes
